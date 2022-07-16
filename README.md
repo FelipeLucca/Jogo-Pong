@@ -1,6 +1,6 @@
 # Jogo-Pong - Pong game
 
-Jogo  pong, um clássico da Atari feito no p5.js como exercício de lógica de programação.
+Jogo  pong, um clássico da Atari feito no p5.js como exercício de lógica de programação.</br>
 Pong is an Atari classic game, this one was made in p5.js as a programming exercise.  
 ---
 # Linguagem utilizada -  Language used
