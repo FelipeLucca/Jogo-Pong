@@ -4,7 +4,7 @@ Jogo  pong, um clássico da Atari feito no p5.js como exercício de lógica de p
 Pong is an Atari classic game, this one was made in p5.js as a programming exercise.  
 ---
 # Linguagem utilizada -  Language used
-- Javascript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 
 ## Sobre o jogo - About the game
 - Utilize as setas para cima e para baixo para rebater a bola com a sua raquete. A cada vez que a bola passar pela sua raquete ou pela raquete do oponente o contador marca 1 ponto. 
